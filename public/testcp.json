@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Dangue Test",
+        "duration": "2 Hours",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "description": "The Mitra sampling device solves for DBS limitations while retaining all its benefits. Reduce clinical research & facility costs by enabling remote specimen collection options. Improve Drug Adherence. Dry Specimen Solutions. No Cold Chain Shipping. Reduce Needle Anxiety.",
+        "fee": 1000
+    },
+    {
+        "id": 2,
+        "name": "Malaria Test",
+        "duration": "6 Hours",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "description": "Malaria Affects Thousands of People Every Year - Help Us Fight Back and Provide Treatment. Support The Treatment And Control of Malaria in Nations Around The World. Jimmy Carter's Charity. Hispaniola Initiative. Malaria Prevention. Malaria Elimination.",
+        "fee": 3000
+    },
+    {
+        "id": 3,
+        "name": "Urin Test",
+         "duration": "1 day",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1579165466741-7f35e4755660?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "description": "A urine test checks different components of urine, a waste product made by the kidneys. A regular urine test may be done to help find the cause of symptoms.",
+        "fee": 8000
+    },
+    {
+        "id": 4,
+        "name": "Diabetes Test",
+        "duration": "6 Hours",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "description": "Your blood sugar levels, also known as blood glucose levels, are a measurement that show how much glucose you have in your blood. Glucose is a sugar that you get from food and drink. Your blood sugar levels go up and down throughout the day and for people living with diabetes these changes are larger and happen more often than in people who don't have diabetes.",
+        "fee": 12000
+    },
+	    {
+        "id": 5,
+        "name": "Covid  Test",
+        "duration": "2 Hours",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1596978759889-91e1a654faca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Get Advisory On Social Distancing Measure In View Of Spread Of COVID-19. Learn More Today. Chat On WhatsApp With MyGov Corona Helpdesk For Instant Assistance. Prevent the Spread! Get Insights and Trends. Easy-To-Use Platform. Citizen-Centric Platform.",
+        "fee": 12000
+    },
+	    {
+        "id": 6,
+        "name": "Lipid Profile Test",
+         "duration": "2 day",
+        "home": "Dhaka",
+        "pic": "https://images.unsplash.com/photo-1624957485490-87d607854977?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "description": "A lipid profile or lipid panel is a panel of blood tests used to find abnormalities in lipids, such as cholesterol and triglycerides. The results of this test can identify certain genetic diseases and can determine approximate risks for cardiovascular disease, certain forms of pancreatitis, and other diseases",
+        "fee": 800
+    }
+	   
+	
+    
+]
